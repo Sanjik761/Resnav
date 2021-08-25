@@ -55,6 +55,13 @@ nav #icon {
   display: none;
 }
 
+section {
+  background-image: url(https://cdn.hipwallpaper.com/i/75/68/8BWvUj.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: calc(100vh - 80px);
+}
+
 @media (max-width: 1048px) {
   .logo {
     font-size: 32px;
