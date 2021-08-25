@@ -54,3 +54,18 @@ nav #icon {
   cursor: pointer;
   display: none;
 }
+
+@media (max-width: 1048px) {
+  .logo {
+    font-size: 32px;
+    padding-left: 60px;
+  }
+
+  nav ul {
+    margin-right: 20px;
+  }
+
+  nav ul li a {
+    font-size: 17px;
+  }
+}
